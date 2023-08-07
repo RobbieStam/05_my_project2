@@ -1,0 +1,63 @@
+@media only screen and (max-width: 1100px) {}
+@import url('https://fonts.googleapis.com/css2?family=Crete+Round&family=Rowdies:wght@300&display=swap');
+
+* {
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+
+#dialog {
+margin: 16vw 70vh;
+border: 3px solid black; 
+color: whitesmoke;
+}
+
+body {
+    background-image: url("https://fs.hubspotusercontent00.net/hubfs/6576206/GIS-Blog-Header.jpg");
+    background-size: auto;
+    color: whitesmoke;
+    font-size: x-large;
+}
+
+.game-desc {
+background-color: white;
+color: black;
+padding: 10px;
+margin: 0vh 20vw;
+}
+
+.titleStrip {
+    margin: vw 100;
+    padding: 0px;
+    font-size: 45px;
+    font-family: Ysabeau SC;
+    text-align: center;
+    background-image: url("https://colorswall.com/images/palettes/shades-of-cadet-blue-5f9ea0-hex-color-24223-colorswall.png");
+    background-position: 9%;
+    border-bottom: 3px solid #395f60;
+}
+
+#training-refresh {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+button {
+        background-color: whitesmoke;
+        width: 27vh;
+        padding: 20px;
+}
+
+button:hover {
+    background-color: #001318;
+    color: #56d1f2;
+}
+
+.submit-btn {
+    padding: 0.9vh;
+    margin-left: 10px;
+    border: 2px solid #668080;
+}
