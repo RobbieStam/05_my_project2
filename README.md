@@ -5,14 +5,15 @@
 ```sh
 cd <path to the folder you want the repo to be in> e.g. ./LFA/lap2/day_01/
 ```
+2. This will clone the repo content into your current directory (day_01 in the example.)
 ```sh
 git clone <your SSH link for this repo>
 ```
-This will clone the repo content into your current directory (day_01 in the example.)
+3. This will run the necessary scripts to get the Client and Server side up and running
 ```sh
 docker compose up
 ```
-This will run the necessary scripts to get the Client and Server side up and running
+
 
 ## Usage
 2. Now go to this address in your web browser http://localhost:3000/ for the front-end.
