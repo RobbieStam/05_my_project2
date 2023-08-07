@@ -16,8 +16,8 @@ docker compose up
 
 
 ## Usage
-2. Now go to this address in your web browser http://localhost:3000/ for the front-end.
-3. or go to http://localhost:8080/ for the back-end.
+2. Now go to this address in your web browser http://localhost:8080/ for the front-end.
+3. or go to http://localhost:3000/ for the back-end.
 
 ## Play the Game!
 - This is an education App with 3 geography based mini-games. 
