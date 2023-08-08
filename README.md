@@ -10,7 +10,11 @@ cd <path to the folder you want the repo to be in> e.g. ./LFA/lap2/day_01/
 ```sh
 git clone <your SSH link for this repo>
 ```
-4. The code below will run the necessary scripts to get the Client and Server side up and running
+4. The code below will cd into the repo.
+```sh
+cd 05_my_project2
+``` 
+5. The code below will run the necessary scripts to get the Client and Server side up and running
 ```sh
 docker compose up
 ```
